@@ -1,5 +1,6 @@
 # Summary
 
+[Foreword](./foreword.md)
 - [Introduction](./chapter_1.md)
 - [Installation](./chapter_2.md)
   - [Install Rust](./chapter_2-1.md)
